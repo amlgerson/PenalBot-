@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="pbLogoGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff48d4"></stop>
+      <stop offset="50%" stop-color="#b92eff"></stop>
+      <stop offset="100%" stop-color="#7c3bff"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="url(#pbLogoGrad)"></rect>
+  <g fill="#fff">
+    <rect x="26" y="26" width="10" height="48"></rect>
+    <rect x="26" y="26" width="30" height="10"></rect>
+    <path d="M56 26 A14 14 0 0 1 56 54 L46 54 L46 44 L56 44 A4 4 0 0 0 56 36 Z"></path>
+  </g>
+  <circle cx="74" cy="70" r="6" fill="#fff"></circle>
+  <circle cx="74" cy="70" r="2.5" fill="url(#pbLogoGrad)"></circle>
+</svg>
